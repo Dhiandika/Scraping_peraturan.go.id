@@ -4,7 +4,7 @@
 ### Gunakan kode di bawah untuk mengerun kode yang ada
 
 ```
-  ptrhon file.py
+  python file.py
 ```
 
 | file | Description                |
